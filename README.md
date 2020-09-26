@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate front + backend developer, pentester, android developer and a FIITJEE student hoping to crack IIT ☺️ to pursue Computer science</h3>
+<h3 align="center">A passionate front + backend developer, pentester, android developer and a FIITJEE student from  India 🇮🇳, hoping to crack IIT ☺️ to pursue Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
