@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact" alt="mradityaalok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true" alt="mradityaalok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true" alt="mradityaalok" /></p>
 
 
