@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
-- 🔭 I’m currently working on [Blogger - a Django Blog](https://github.com/MrAdityaAlok/Blogger)
 
 - 🌱 I’m currently learning **C and C++**
 
