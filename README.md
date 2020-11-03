@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<p align="center"> <img src="https://res.cloudinary.com/mradityaalok/image/upload/w_400,c_fill,ar_1:1,g_auto,r_max/v1601110653/68095583_uqu4e9.png"/>
 <h3 align="center">A passionate Computer science and Machine learning student from 🇮🇳 India, with a dream to reach Google. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
