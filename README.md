@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Computer science and Machine learning student from 🇮🇳 India, with a dream to reach Google. </h3>
+<h3 align="center">A passionate Computer science (Specially Machine learning) student from 🇮🇳 India, with a dream to reach Google. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
