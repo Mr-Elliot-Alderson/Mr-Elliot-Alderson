@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **Golang and Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrAdityaAlok/](https://github.com/MrAdityaAlok/)
 
