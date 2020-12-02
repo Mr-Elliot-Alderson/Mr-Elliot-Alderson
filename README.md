@@ -11,7 +11,7 @@
 - 💬 Ask me about **Machine Learning, C/C++, Go, React, Django, Android, Java, Python and web development**
 
 - 📫 How to reach me **mradityaalok21@gmail.com**
-<h1> I code with </h1>
+<h1>📊 GitHub stats </h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact" alt="mradityaalok" /></p>
 
