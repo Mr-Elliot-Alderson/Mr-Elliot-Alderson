@@ -21,7 +21,7 @@ Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turi
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
-![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=zsh)
+![Zsh](https://img.shields.io/badge/--red?style=flat-square&logo=zsh)
 ![GoLang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
