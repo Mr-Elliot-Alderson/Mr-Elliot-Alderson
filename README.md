@@ -1,4 +1,4 @@
-<img src="195.jpeg" align="center" height="75%" width="85%"></img>
+<img src="195.jpeg" align="center" height="70%" width="100%"></img>
 
 <h1 align="center">I'm Aditya</h1>
 <h3 align="center">A passionate Computer science (basically Machine learning) student from 🇮🇳 India, with a dream of being Alan Turing of 21st century 😄 </h3>
