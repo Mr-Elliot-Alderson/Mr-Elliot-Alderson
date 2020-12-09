@@ -11,13 +11,13 @@ Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turi
 [![Gmail Badge](https://img.shields.io/badge/-mradityaalkk21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradityaalok21@gmail.com)](mailto:mradityaalok21@gmail.com)
 
 ## 🌱 I'm currently learning
-![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-++-black?style=flat-square&logo=c)
-![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+- ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
+- ![C++](https://img.shields.io/badge/-++-black?style=flat-square&logo=c)
+- ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
+- ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
 
-## ⚡ Technologies
+## ⚡ Technologies In my hold 📚
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
