@@ -2,6 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
 I am Aditya Alok, you may 📞 me as **Alok**. I am a 1️⃣5️⃣ years old student of 1️⃣1️⃣th grade, from 🇮🇳 India,currently preparing 🏋️ for one of the toughest examination 🧪 of my country,IIT-JEE.
+
 My 💕 is Computer Science and 🧬 life, Artificial intelligence .
 
 Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turing** of 2️⃣1️⃣st century 😄
