@@ -48,8 +48,8 @@ Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-## 📊 My GitHub stats
+## 💹 My GitHub stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact&theme=radical" alt="mradityaalok" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact&theme=prussian" alt="mradityaalok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="mradityaalok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="mradityaalok" /></p>
