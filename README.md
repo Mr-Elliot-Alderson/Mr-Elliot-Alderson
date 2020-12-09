@@ -51,6 +51,9 @@ Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turi
 
 ## 💹 My stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact&theme=prussian" alt="mradityaalok" /></p>
 
