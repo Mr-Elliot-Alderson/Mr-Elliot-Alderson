@@ -7,7 +7,7 @@ My 💕 is Computer Science and 🧬 life, Artificial intelligence .
 
 Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turing** of 2️⃣1️⃣st century 😄
 
-
+## Get in touch 🥂
 
 [![Gmail Badge](https://img.shields.io/badge/-mradityaalkk21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradityaalok21@gmail.com)](mailto:mradityaalok21@gmail.com)
 
