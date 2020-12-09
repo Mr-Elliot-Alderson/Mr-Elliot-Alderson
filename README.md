@@ -50,6 +50,6 @@ Keeping pace with 💻 technology to fullfill my 💭 dream of being **Alan Turi
 
 ## 📊 My GitHub stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact" alt="mradityaalok" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact&theme=radical" alt="mradityaalok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true" alt="mradityaalok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="mradityaalok" /></p>
