@@ -1,12 +1,14 @@
 # Hello <img src="wave.gif" width="30px" /> there, nice to have you here!
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mradityaalok" alt="mradityaalok" /> </p>
 
 I'm Aditya Alok, a 1️⃣5️⃣ years old student, from 🇮🇳 India. I am currently in 1️⃣1️⃣th-grade, preparing 🏋️ for one of the toughest examinations 🧪 in my country, IIT-JEE.
 
+``` text
 My 💕 is Computer Science 🖥️ and 🧬 life, Artificial intelligence 🤖.
 
 *⚡ Keeping pace with 💻 technology to fulfill my 💭 dream of being **Alan Turing** of the 2️⃣1️⃣st century 😄*
 
+```
 ## Get in touch 🥂
 
 [![Gmail Badge](https://img.shields.io/badge/-mradityaalkk21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradityaalok21@gmail.com)](mailto:mradityaalok21@gmail.com)
