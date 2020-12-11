@@ -3,9 +3,9 @@
 
 I'm Aditya Alok, a 1️⃣5️⃣ years old student, from 🇮🇳 India. I am currently in 1️⃣1️⃣th-grade, preparing 🏋️ for one of the toughest examinations 🧪 in my country, IIT-JEE.
 
-My 💕 is Computer Science and 🧬 life, Artificial intelligence.
+My 💕 is Computer Science 🖥️ and 🧬 life, Artificial intelligence 🤖.
 
-*Keeping pace with 💻 technology to fulfill my 💭 dream of being **Alan Turing** of the 2️⃣1️⃣st century 😄*
+*⚡ Keeping pace with 💻 technology to fulfill my 💭 dream of being **Alan Turing** of the 2️⃣1️⃣st century 😄*
 
 ## Get in touch 🥂
 
@@ -58,7 +58,7 @@ CSS    23 mins         ████▒░░░░░░░░░░░░░░
 JSON   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 VimL   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->. 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradityaalok&layout=compact&theme=prussian" alt="mradityaalok" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradityaalok&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="mradityaalok" /></p>
