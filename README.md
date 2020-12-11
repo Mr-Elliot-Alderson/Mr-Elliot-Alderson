@@ -3,7 +3,7 @@
 
 I'm Aditya Alok, a 1️⃣5️⃣ years old student, from 🇮🇳 India. I am currently in 1️⃣1️⃣th-grade, preparing 🏋️ for one of the toughest examinations 🧪 in my country, IIT-JEE.
 
-**“**My 💕 is Computer Science 🖥️ and 🧬 life, Artificial intelligence 🤖**”**
+**“My 💕 is Computer Science 🖥️ and 🧬 life, Artificial intelligence 🤖”**
 
 ⚡ Keeping pace with 💻 technology to fulfill my 💭 dream of being <b>Alan Turing</b> of the 2️⃣1️⃣st century 😄
 
