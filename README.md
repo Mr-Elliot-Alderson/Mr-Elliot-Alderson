@@ -9,7 +9,9 @@ I'm Aditya Alok, a 1️⃣5️⃣ years old student, from 🇮🇳 India. I am c
 
 ## Get in touch 🥂
 
-[![Gmail Badge](https://img.shields.io/badge/-mradityaalkk21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradityaalok21@gmail.com)](mailto:mradityaalok21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradityaalok21@gmail.com)](mailto:mradityaalok21@gmail.com)
+
+[![Stackoverflow](https://img.shields.io/badge/-Stackverflow-black?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/story/14860179)](https://stackoverflow.com/users/story/14860179)
 
 ## 🌱 I'm currently learning
 - ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
